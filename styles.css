@@ -1,0 +1,242 @@
+
+
+.navbar-brand{
+    padding-left: 7%;
+    font-family: 'Bree Serif', serif;
+    
+    
+}
+
+.navbar-nav{
+    padding-right: 3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    color: black;
+}
+
+.title-container{
+  text-align: center;
+  background-color: #892cdc;
+  color: white;
+}
+
+.title-heading{
+font-family:'Bree Serif', serif;
+font-size: 4rem;
+text-align: center;
+padding-top: 60px;
+padding-bottom:3% ;
+}
+
+.subtitle-heading{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1rem;
+    font-size: 1rem;
+    text-align: center;
+    padding-bottom: 4%;
+    padding-top: 5%;
+}
+
+.title-image{
+    width: 30%;
+    padding-bottom: 2%;
+    
+}
+
+.title-par{
+    padding-top: 2%;
+    padding-bottom: 3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.middle-container{
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding-bottom: 5%;
+}
+
+.middle-heading{
+    font-family: 'Bree Serif', serif;
+    padding-top: 6%;
+    padding-bottom: 3%;
+}
+
+.about-me{
+    font-family: 'Noto Serif TC', serif;
+    line-height: 40px;
+}
+
+.my-work{
+    background-color:#892cdc;
+    color: white;
+    padding-top: 4%;
+}
+
+.work-heading{
+    padding-bottom: 3%;
+    font-family : 'Bree Serif', serif;
+    text-align: center;
+    
+}
+
+.work-subheading{
+    padding-bottom: 2%;
+    font-family: 'Noto Serif TC', serif;
+}
+
+
+
+.pencil{
+    margin: auto;
+}
+
+
+
+.fed{
+    font-family: 'Noto Serif TC', serif;
+}
+
+.eh{
+    font-family: 'Noto Serif TC', serif;
+}
+
+.subs{
+    font-family: 'Noto Serif TC', serif;
+}
+ .pencil{
+     font-size: 2.5rem;
+ }
+
+.code{
+    font-size: 2rem;
+}
+
+.hacker{
+    font-size: 2rem;
+}
+
+#work{
+    padding-left: 7%;
+    padding-top: 3%;
+}
+
+
+.fourth-row{
+    text-align: center;
+    padding-top: 6%;
+    background-color:white;
+    color: black;
+}
+
+.hello{
+    padding-bottom: 4%;
+    font-family: 'Bree Serif', serif;
+}
+
+.contact-par{
+    padding-top: 3%;
+    font-family: 'Noto Serif TC', serif;
+}
+
+.contact-button{
+margin-right: 16px;
+margin-top: 16px;
+margin-bottom: 59px;
+
+}
+
+.dream{
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Bree Serif', serif;
+    background-color: #bc6ff1;
+    color: white;
+    
+}
+
+.means-more{
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Bree Serif', serif;
+}
+
+.last-container{
+    text-align: center;
+    padding-top: 3%;
+}
+
+.icon{
+  margin-right: 2%;
+  margin-top: 4%;
+  margin-bottom: 3%;
+}
+
+.copyright{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 0.7rem;
+}
+
+.copyright-par{
+    font-family: 'Noto Serif TC', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:615px){
+ .title-heading{
+     text-align: center;
+ }
+
+ .my-work{
+     text-align: center;
+ }
+
+.first-pad{
+    padding-bottom: 8%;
+}
+
+.second-pad{
+    padding-bottom: 8%;
+}
+.third-pad{
+    padding-bottom: 8%;
+}
+}
